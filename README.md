@@ -1,16 +1,54 @@
-# myquizapp
+![Github Banner](readme-asset/mrreiaz.png)
 
-A new Flutter project.
+## Hello ! My Gorgeous and Lovely Friend <img src="readme-asset/hello.gif" width="40px" alt="hi">
 
-## Getting Started
+I'm Abdul Halim Reiaz, You can Call me MrReiaz, a Full Stack Web and Mobile Application Developer from <img src="readme-asset/bangladesh.png" width="18"/>. Now Live in Japan <img src="readme-asset/japan.png" width="18"/> and One of the Popular Content Creator on [Youtube](https://www.youtube.com/c/MrReiaz?sub_confirmation=1) and [Facebook](https://www.facebook.com/mrreiaz23). I Spend most of time read different types of books and learn different types of coding and programing concepts and recording YouTube Videos.
 
-This project is a starting point for a Flutter application.
+:coffee: &emsp;Connect with me!
 
-A few resources to get you started if this is your first Flutter project:
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mrreiaz23) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/MrReiaz?sub_confirmation=1) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halim-md-abdul/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrreiaz/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/inf_reiaz) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reiazbubt@gmail.com) [![Web Badge](https://img.shields.io/badge/website-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mrreiaz.com)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+:hearts: &emsp;I love programming and sharing knowledge <br/>
+:computer: &emsp;Most used line of code `Hello World!` <br/>
+🤔 &emsp;I’m looking for people who can help me to think something Outstanding  and executions.<br/>
+:e-mail: &emsp;How to reach me: reiazbubt@gmail.com.<br/>
+⚡ &emsp;Fun fact: I am a co-founder of one of largest digital marketing agency in <img src="readme-asset/bangladesh.png" width="18"/> Bangladesh named StoryIT.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!---
+MatheDev/MatheDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<div style="display:flex">
+  <img height=170  src="https://github-readme-stats.vercel.app/api?username=MatheDev&show_icons=true&theme=dracula" />
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheDev&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</div>
+
+
+#### Contacts with me
+
+:email: &emsp;reiazbubt@gmail.com
+<br >
+:email: &emsp;infreiaz@gmail.com
+
+#### Visits My Website
+www.mrreiaz.com
+
+# Quiz App.
+
+As a beginner Flutter developer, This is easy and simple Dice rol Game..
+
+<table>
+  <tr>
+    <td><img src="/readme-asset/android.png" width="100%" alt="Android App" /></td>
+    <td><img src="/readme-asset/iphone.png" width="100%" alt="iPhone App" /></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Fig.1 - Android App</em></td>
+    <td align="center"><em>Fig.2 - iPhone App</em></td>
+  </tr>
+</table>
+
+## Packages Used
+
+- `rflutter_alert: ^2.0.7` - To use alert  box.

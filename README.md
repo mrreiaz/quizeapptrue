@@ -36,7 +36,7 @@ www.mrreiaz.com
 
 # Quiz App.
 
-As a beginner Flutter developer, This is easy and simple Dice rol Game..
+As a beginner Flutter developer, This is easy and simple quiz App.
 
 <table>
   <tr>
